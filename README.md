@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-[<blockquote class="imgur-embed-pub" lang="en" data-id="a/qBVCVHV"  ><a href="//imgur.com/a/qBVCVHV">CodePath project one</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/gallery/codepath-project-one-qBVCVHV#TmczNh7)
+![me](https://github.com/Soup098/code_path_project_one/blob/main/project_one.gif)
 
 GIF created with **your chosen GIF tool**
 
