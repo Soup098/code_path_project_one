@@ -46,11 +46,13 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I had a great time working on this project. I find it much more engaging to work with a group of people and build and learn together. 
+My current school is self paced online study so it is nice to get to know some other students. I am looking forward to learning more complex subjects in android development!
+
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2025 Alex Surprenant
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
