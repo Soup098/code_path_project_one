@@ -5,8 +5,7 @@
     <string name="last_name">Surprenant</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">Hi, im Alex! I love to build stuff, and learn new and exciting technologies along the way!</string>
-
+    <string name="profile_bio_text">Hi, I\'m a software developer based out of Denver, CO! I love to build cool stuff and play fun games!</string>
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
     <string name="profile_hobby_first_text">🥇 SNOWBOARDING</string>
     <string name="profile_hobby_second_text">🥈 DRUMMING</string>
